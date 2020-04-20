@@ -1,8 +1,0 @@
-{
-“name”: FBot”,
-“version”: “1.0.0”,
-“description”: “My First Discord Bot.  Counts the number of times a user says "F" in the chat.”,
-“main”: “bot.js”,
-“author”: “Tyler Wallschleger"
-“dependencies”: {}
-}
