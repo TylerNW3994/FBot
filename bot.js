@@ -65,6 +65,13 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 						message: x + " has F'd " + userFs[x] + " times!  WOW!"
 					})
 				}
+			case: 'rawr:
+			case: 'Rawr':
+			case: 'RAWR':
+				bot.sendMessage({
+					to: channelID,
+					message: "XD"
+				});
             break;
         }
 		
